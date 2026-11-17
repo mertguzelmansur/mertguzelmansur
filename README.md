@@ -14,7 +14,7 @@
 
 ### About me
 
-I work in industrial field service and automation, on PLC/SCADA systems for industrial machinery. I also design and build embedded devices end to end: firmware, electronics, web interfaces and 3D-printed enclosures.
+I work in industrial field service and automation, on PLC/SCADA systems for industrial machinery. I also design and build embedded devices end to end: firmware, electronics, web interfaces and 3D-printed objects.
 
 - 🏭 **Industrial:** Siemens S7-1200 / S7-1500, TIA Portal, WinCC, EPLAN, field commissioning and troubleshooting
 - 🔌 **Embedded:** ESP32, STM32, CAN bus, OBD-II / ELM327, BLE, ESP-NOW, I²C sensors and displays
