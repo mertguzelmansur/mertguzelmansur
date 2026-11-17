@@ -14,12 +14,11 @@
 
 ### About me
 
-I am a field service and automation technician at **Mahlo Tekstil Makinaları Teknik Servisi** (since 2019), working on PLC/SCADA systems for industrial machinery. Outside of work I design and build embedded devices end to end: firmware, electronics, web interfaces and 3D-printed enclosures.
+I work in industrial field service and automation, on PLC/SCADA systems for industrial machinery. I also design and build embedded devices end to end: firmware, electronics, web interfaces and 3D-printed enclosures.
 
 - 🏭 **Industrial:** Siemens S7-1200 / S7-1500, TIA Portal, WinCC, EPLAN, field commissioning and troubleshooting
 - 🔌 **Embedded:** ESP32, STM32, CAN bus, OBD-II / ELM327, BLE, ESP-NOW, I²C sensors and displays
-- 🛠️ **Hardware:** electronics wiring and prototyping (team member on the company's drone and electric motorcycle projects), 3D design and printing
-- 🎓 Mechatronics Technician (associate degree), Hacı Bektaş Veli University
+- 🛠️ **Hardware:** electronics wiring and prototyping (drone and electric motorcycle projects), 3D design and printing
 
 **Türkçe:** Bursa'da endüstriyel otomasyon ve gömülü sistemler üzerine çalışan bir mekatronik teknikeriyim. Projelerimin çoğunun Türkçe dokümantasyonu vardır.
 
