@@ -18,9 +18,10 @@ I work in industrial field service and automation, on PLC/SCADA systems for indu
 
 - 🏭 **Industrial:** Siemens S7-1200 / S7-1500, TIA Portal, WinCC, EPLAN, field commissioning and troubleshooting
 - 🔌 **Embedded:** ESP32, STM32, CAN bus, OBD-II / ELM327, BLE, ESP-NOW, I²C sensors and displays
-- 🛠️ **Hardware:** electronics wiring and prototyping (drone and electric motorcycle projects), 3D design and printing
+- 🛠️ **Hardware:** electronics wiring and prototyping (drone and electric motorcycle projects)
+- 🧊 **3D design & printing:** 3D CAD modelling for industrial and hobby projects, and 3D printing of the parts
 
-**Türkçe:** Bursa'da endüstriyel otomasyon ve gömülü sistemler üzerine çalışıyorum. Projelerimin çoğunun Türkçe dokümantasyonu vardır.
+**Türkçe:** Bursa'da endüstriyel otomasyon ve gömülü sistemler üzerine çalışıyorum; endüstriyel ve hobi amaçlı 3D çizimler yapıp baskılarını alıyorum. Projelerimin çoğunun Türkçe dokümantasyonu vardır.
 
 ---
 
@@ -56,4 +57,4 @@ I work in industrial field service and automation, on PLC/SCADA systems for indu
 
 ---
 
-<p align="center"><sub>Projects signed as <b>MGM</b> · Open to collaboration on automation and embedded hardware projects</sub></p>
+<p align="center"><sub>Projects signed as <b>MGM</b> · Open to collaboration on automation, embedded hardware and 3D design projects</sub></p>
