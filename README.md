@@ -1,7 +1,7 @@
 <h1 align="center">Mert Güzelmansur</h1>
 
 <p align="center">
-  <b>Mechatronics Technician · Industrial Automation & Embedded Systems</b><br>
+  <b>Industrial Automation & Embedded Systems</b><br>
   Bursa, Türkiye
 </p>
 
@@ -20,7 +20,7 @@ I work in industrial field service and automation, on PLC/SCADA systems for indu
 - 🔌 **Embedded:** ESP32, STM32, CAN bus, OBD-II / ELM327, BLE, ESP-NOW, I²C sensors and displays
 - 🛠️ **Hardware:** electronics wiring and prototyping (drone and electric motorcycle projects), 3D design and printing
 
-**Türkçe:** Bursa'da endüstriyel otomasyon ve gömülü sistemler üzerine çalışan bir mekatronik teknikeriyim. Projelerimin çoğunun Türkçe dokümantasyonu vardır.
+**Türkçe:** Bursa'da endüstriyel otomasyon ve gömülü sistemler üzerine çalışıyorum. Projelerimin çoğunun Türkçe dokümantasyonu vardır.
 
 ---
 
