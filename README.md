@@ -30,7 +30,7 @@ I work in industrial field service and automation, on PLC/SCADA systems for indu
 | Project | Description | Stack |
 |---|---|---|
 | [**ESP32 Earthquake Message System**](https://github.com/mertguzelmansur/ESP32_Earthquake_Message_System) | Offline emergency network for earthquakes. Phones join an open Wi-Fi captive portal (no app) and report their status; devices relay messages over an ESP-NOW mesh. TR/EN/AR UI, OTA. | ESP32 · M5StickC Plus · ESP-NOW |
-| [**MGM Cockpit**](https://github.com/mertguzelmansur/MGM-COCKPIT) | Virtual car dashboard and smart fault detection in the browser over a BLE ELM327 adapter, plus an M5StickC driving-assistant firmware. | Web Bluetooth · OBD-II · M5Stick |
+| [**MGM Cockpit**](https://github.com/mertguzelmansur/MGM-COCKPIT) | Virtual car dashboard and smart fault detection in the browser over a BLE ELM327 adapter, plus an M5StickC driving-assistant firmware. **[▶ Live app](https://mertguzelmansur.github.io/MGM-COCKPIT/)** | Web Bluetooth · OBD-II · M5Stick |
 | [**Cutting Machine Ruler Display**](https://github.com/mertguzelmansur/Cutting-Machine-Ruller-Display) | Digital length measurement for cutting tables: 500 PPR encoder, STM32 pulse counting, ESP32 touchscreen HMI over I²C. | STM32 · ESP32 · HMI |
 | [**MGM LED Ring**](https://github.com/mertguzelmansur/Pisa_tower_esp32_c3) | Apple Home (HomeKit) lamp that turns into an iPhone notification light over BLE ANCS. 3D-printed parametric enclosure. | ESP32-C3 · HomeKit · WS2812 |
 | [**ESP32 Gold Price Tracker**](https://github.com/mertguzelmansur/ESP32_Gold_Price_Tracker) | Desk gadget showing live gold, silver, BTC and currency prices, local weather and indoor sensors on an OLED, managed from its own web page. | ESP32 · OLED · AsyncWebServer |
