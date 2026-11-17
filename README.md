@@ -65,7 +65,7 @@ I work in industrial field service and automation, on PLC/SCADA systems for indu
   <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks">
   <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD">
   <img src="https://img.shields.io/badge/Siemens%20NX-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens NX">
-  <img src="https://img.shields.io/badge/Shapr3D-111111?style=flat-square" alt="Shapr3D">
+  <img src="https://img.shields.io/badge/Shapr3D-6E6E6E?style=flat-square" alt="Shapr3D">
   <img src="https://img.shields.io/badge/OpenSCAD-F9D72C?style=flat-square&logo=openscad&logoColor=black" alt="OpenSCAD">
   <img src="https://img.shields.io/badge/Bambu%20Lab-00AE42?style=flat-square&logo=bambulab&logoColor=white" alt="Bambu Lab">
   <img src="https://img.shields.io/badge/Creality-1F6FEB?style=flat-square" alt="Creality">
