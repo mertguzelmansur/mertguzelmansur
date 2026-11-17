@@ -40,19 +40,35 @@ I work in industrial field service and automation, on PLC/SCADA systems for indu
 
 ### Tools & technologies
 
+**Industrial automation**
 <p>
-  <img src="https://img.shields.io/badge/Siemens-TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white" alt="TIA Portal">
-  <img src="https://img.shields.io/badge/WinCC-SCADA-009999?style=flat-square" alt="WinCC">
-  <img src="https://img.shields.io/badge/EPLAN-Electric%20P8-F0A30A?style=flat-square" alt="EPLAN">
+  <img src="https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens TIA Portal">
+  <img src="https://img.shields.io/badge/WinCC%20SCADA-009999?style=flat-square&logo=siemens&logoColor=white" alt="WinCC SCADA">
+  <img src="https://img.shields.io/badge/Schneider%20Electric-3DCD58?style=flat-square&logo=schneiderelectric&logoColor=white" alt="Schneider Electric">
+  <img src="https://img.shields.io/badge/EPLAN%20Electric%20P8-F0A30A?style=flat-square" alt="EPLAN Electric P8">
+</p>
+
+**Embedded & software**
+<p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML%2FJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/CAN%20bus-555555?style=flat-square" alt="CAN bus">
-  <img src="https://img.shields.io/badge/3D%20Printing-Shapr3D%20%7C%20OpenSCAD-F5A623?style=flat-square" alt="3D printing">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML%2FJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="HTML/JS">
+</p>
+
+**CAD & 3D printing**
+<p>
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks">
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD">
+  <img src="https://img.shields.io/badge/Siemens%20NX-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens NX">
+  <img src="https://img.shields.io/badge/Shapr3D-111111?style=flat-square" alt="Shapr3D">
+  <img src="https://img.shields.io/badge/OpenSCAD-F9D72C?style=flat-square&logo=openscad&logoColor=black" alt="OpenSCAD">
+  <img src="https://img.shields.io/badge/Bambu%20Lab-00AE42?style=flat-square&logo=bambulab&logoColor=white" alt="Bambu Lab">
+  <img src="https://img.shields.io/badge/Creality-1F6FEB?style=flat-square" alt="Creality">
 </p>
 
 ---
